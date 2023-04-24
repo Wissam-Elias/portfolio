@@ -1,10 +1,14 @@
 <script setup>
+import MainScene from "./components/MainScene.vue";
+
 
 </script>
 
 <template>
-
-</template>
+    <div>
+      <MainScene/>
+    </div>
+  </template>
 
 <style scoped>
 
