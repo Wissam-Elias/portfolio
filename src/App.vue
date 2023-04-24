@@ -6,6 +6,7 @@ import MainScene from "./components/MainScene.vue";
 
 <template>
     <div>
+        test test
       <MainScene/>
     </div>
   </template>
